@@ -1,2 +1,3 @@
 # git-github-demo
-this repo is demo of the git and github
+this repo is demo of the git and github.
+Author - Jay Karkar
